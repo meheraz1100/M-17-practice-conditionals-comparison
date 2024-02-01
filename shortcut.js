@@ -7,9 +7,9 @@ const isLeader = true;
 //     console.log('vitore dukte dibina');
 // }
 
-const isPassed = false;
-
-if(!isPassed === false){
+const isPassed = true;
+// if(isPassed === false)
+if(!isPassed){
     console.log('Toke biya diya dimu');
 }
 else{
